@@ -11,3 +11,6 @@ q
 dxsq
 d
 x
+main () {
+	printf("hello");
+}
